@@ -33,7 +33,7 @@ export function Features() {
             <span className="text-gray-400">start to finish</span>
           </h2>
           <p className="text-lg text-gray-600 dark:text-gray-300 max-w-xl">
-            Dyad gives you deep customization with just enough structure so you never feel lost.
+            OpenLovable gives you deep customization with just enough structure so you never feel lost.
           </p>
         </div>
 

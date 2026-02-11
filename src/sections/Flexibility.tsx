@@ -9,7 +9,7 @@ const flexibilityFeatures = [
   {
     icon: FolderOpen,
     title: 'Your code stays yours',
-    description: 'Import existing apps or export anytime. Switch freely between Dyad and other tools.',
+    description: 'Import existing apps or export anytime. Switch freely between OpenLovable and other tools.',
   },
   {
     icon: Puzzle,
@@ -128,7 +128,7 @@ export function Flexibility() {
               </span>
             </h2>
             <p className="text-lg text-gray-600 dark:text-gray-300 mb-10">
-              Dyad never traps you in a proprietary ecosystem—your models, your tools, your code.
+              OpenLovable never traps you in a proprietary ecosystem—your models, your tools, your code.
             </p>
 
             <div className="space-y-6">

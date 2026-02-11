@@ -8,12 +8,12 @@ export function Footer() {
             <div className="w-8 h-8 rounded-lg bg-gradient-to-br from-purple-500 to-violet-600 flex items-center justify-center">
               <span className="text-white font-bold text-sm">D</span>
             </div>
-            <span className="font-semibold text-gray-900 dark:text-white">Dyad Tech, Inc.</span>
+            <span className="font-semibold text-gray-900 dark:text-white">OpenLovable Tech, Inc.</span>
           </div>
 
           {/* Tagline */}
           <p className="text-sm text-gray-500 dark:text-gray-400 mb-6">
-            Built with care by the Dyad team
+            Built with care by the OpenLovable team
           </p>
 
           {/* Links */}

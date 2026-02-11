@@ -3,7 +3,7 @@ import { Check, Zap, Download, Key, MessageSquare, Star, Rocket, Users, RefreshC
 
 const plans = [
   {
-    name: 'Dyad Free',
+    name: 'OpenLovable Free',
     price: 'Free',
     description: 'Perfect for getting started and building apps.',
     features: [
@@ -19,16 +19,16 @@ const plans = [
     highlighted: false,
   },
   {
-    name: 'Dyad Pro',
+    name: 'OpenLovable Pro',
     price: '$20',
     period: '/month',
     description: 'Unlock powerful AI modes and exclusive Pro features.',
     badge: 'RECOMMENDED',
     features: [
-      { icon: Check, text: 'Everything in Dyad Free plus...' },
+      { icon: Check, text: 'Everything in OpenLovable Free plus...' },
       { icon: Star, text: 'Exclusive Pro modes to work on large codebases' },
       { icon: Zap, text: '200 AI credits/month' },
-      { icon: Rocket, text: 'Full Dyad Academy access' },
+      { icon: Rocket, text: 'Full OpenLovable Academy access' },
     ],
     cta: 'Subscribe to Pro',
     ctaVariant: 'default' as const,
@@ -37,12 +37,12 @@ const plans = [
     note: "After signing up, you'll be redirected to checkout.",
   },
   {
-    name: 'Dyad Max',
+    name: 'OpenLovable Max',
     price: '$79',
     period: '/month',
     description: 'For building large, complex apps.',
     features: [
-      { icon: Check, text: 'Everything in Dyad Pro plus...' },
+      { icon: Check, text: 'Everything in OpenLovable Pro plus...' },
       { icon: Zap, text: '900 AI credits/month' },
       { icon: Users, text: 'Prioritized access to office hours' },
       { icon: RefreshCw, text: 'Reload credits at any time (same price)' },
@@ -153,14 +153,14 @@ export function Pricing() {
               </div>
               <div>
                 <p className="text-gray-700 dark:text-gray-300 mb-4 leading-relaxed">
-                  I built Dyad as a local, open-source AI app builder because you should feel like an{' '}
+                  I built OpenLovable as a local, open-source AI app builder because you should feel like an{' '}
                   <span className="font-semibold text-gray-900 dark:text-white">owner</span>, not a renter. 
                   We believe in flexibility, not lock-in. We want users who{' '}
                   <span className="font-semibold text-gray-900 dark:text-white">choose us</span>, not ones who are stuck with us.
                 </p>
                 <div>
                   <p className="font-semibold text-gray-900 dark:text-white">Will Chen</p>
-                  <p className="text-sm text-gray-500 dark:text-gray-400">Creator of Dyad</p>
+                  <p className="text-sm text-gray-500 dark:text-gray-400">Creator of OpenLovable</p>
                 </div>
               </div>
             </div>

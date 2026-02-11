@@ -41,7 +41,7 @@ export function Header({ isDark, setIsDark }: HeaderProps) {
             <div className="w-8 h-8 rounded-lg bg-gradient-to-br from-purple-500 to-violet-600 flex items-center justify-center">
               <span className="text-white font-bold text-sm">d</span>
             </div>
-            <span className="font-semibold text-gray-900 dark:text-white">Dyad</span>
+            <span className="font-semibold text-gray-900 dark:text-white">OpenLovable</span>
           </a>
 
           {/* Desktop Navigation */}
@@ -83,7 +83,7 @@ export function Header({ isDark, setIsDark }: HeaderProps) {
               variant="outline"
               className="hidden sm:inline-flex border-purple-200 dark:border-purple-800 text-purple-600 dark:text-purple-400 hover:bg-purple-50 dark:hover:bg-purple-900/20"
             >
-              Dyad Pro
+              OpenLovable Pro
             </Button>
 
             <Button className="hidden sm:inline-flex bg-purple-600 hover:bg-purple-700 text-white">
@@ -123,7 +123,7 @@ export function Header({ isDark, setIsDark }: HeaderProps) {
                   variant="outline"
                   className="flex-1 border-purple-200 dark:border-purple-800 text-purple-600 dark:text-purple-400"
                 >
-                  Dyad Pro
+                  OpenLovable Pro
                 </Button>
                 <Button className="flex-1 bg-purple-600 hover:bg-purple-700 text-white">
                   Download

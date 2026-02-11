@@ -45,7 +45,7 @@ export function Hero() {
               className="w-full sm:w-auto bg-purple-600 hover:bg-purple-700 text-white px-8 py-6 text-base font-medium rounded-xl shadow-lg shadow-purple-500/25 hover:shadow-purple-500/40 transition-all"
             >
               <Download className="w-5 h-5 mr-2" />
-              Download Dyad for macOS (Apple Silicon)
+              Download OpenLovable for macOS (Apple Silicon)
             </Button>
             <Button
               variant="outline"
@@ -139,7 +139,7 @@ export function Hero() {
                       <div className="relative">
                         <input 
                           type="text" 
-                          placeholder="Ask Dyad to build..." 
+                          placeholder="Ask OpenLovable to build..." 
                           className="w-full px-3 py-2 pr-20 text-sm border border-gray-200 dark:border-gray-700 rounded-lg bg-white dark:bg-gray-900"
                         />
                         <div className="absolute right-2 top-1/2 -translate-y-1/2 flex items-center gap-1">

@@ -6,12 +6,12 @@ const testimonials = [
   {
     author: '@Fluxer_automações',
     avatar: '🚀',
-    quote: "Dyad completely changed the way I build web interfaces. What I love the most is how intuitive and fast it is — it feels like having a design and dev partner that truly understands my ideas.",
+    quote: "OpenLovable completely changed the way I build web interfaces. What I love the most is how intuitive and fast it is — it feels like having a design and dev partner that truly understands my ideas.",
   },
   {
     author: 'u/redditissocoolyoyo',
     avatar: '🎮',
-    quote: "I built a poker game with Dyad. It worked very well. Will is working very diligently to add enhancements and fix bugs to make Dyad an even better tool. Best of all, it's local.",
+    quote: "I built a poker game with OpenLovable. It worked very well. Will is working very diligently to add enhancements and fix bugs to make OpenLovable an even better tool. Best of all, it's local.",
   },
   {
     author: 'u/morgankhalil',
@@ -31,12 +31,12 @@ const testimonials = [
   {
     author: 'u/JuanJValle',
     avatar: '💎',
-    quote: "I just wanted to thank the team that is building Dyad. You have provided an excellent product that is easy to use and understandable with excellent and prompt support.",
+    quote: "I just wanted to thank the team that is building OpenLovable. You have provided an excellent product that is easy to use and understandable with excellent and prompt support.",
   },
   {
     author: '@GGManera',
     avatar: '⚡',
-    quote: "I'm ready to go all in on Dyad. This is hands down the most powerful tool I've ever used, and it's still in its early days. Open source, AI agnostic, runs locally... feels unreal.",
+    quote: "I'm ready to go all in on OpenLovable. This is hands down the most powerful tool I've ever used, and it's still in its early days. Open source, AI agnostic, runs locally... feels unreal.",
   },
   {
     author: '@goodhawk',
@@ -63,7 +63,7 @@ export function Testimonials() {
             Loved by builders worldwide
           </h2>
           <p className="text-lg text-gray-600 dark:text-gray-300 max-w-2xl mx-auto">
-            See what users are saying about Dyad across social media and community platforms.
+            See what users are saying about OpenLovable across social media and community platforms.
           </p>
         </div>
 
