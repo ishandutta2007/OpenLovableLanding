@@ -62,7 +62,7 @@ export function Header({ isDark, setIsDark }: HeaderProps) {
 					{/* Right Actions */}
 					<div className="flex items-center gap-3">
 						<a
-							href="https://github.com/ishandutta2007/openlovable"
+							href="https://github.com/ishandutta2007/Open-Lovable"
 							target="_blank"
 							rel="noopener noreferrer"
 							className="hidden sm:flex items-center justify-center w-9 h-9 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-800 transition-colors"
