@@ -75,3 +75,7 @@ export default defineConfig([
   },
 ])
 ```
+
+## ✨ Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=ishandutta2007/OpenLovable.dev&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/OpenLovable.dev&type=date&legend=top-left)
